@@ -1,2 +1,2 @@
 # practice-3
-my third repository
+This is my third repository.
